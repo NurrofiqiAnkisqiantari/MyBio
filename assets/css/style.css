@@ -1,0 +1,49 @@
+/* warna bg navbar */
+
+.navbar {
+    background-color: #0A043C;
+}
+
+/* akhir warna bg navbar */
+
+/* FONT Navbar */
+.navbar a {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FEFFDF;
+    margin-left: 50px;
+}
+
+/* .navbar a :hover {
+    font-size: 18px;
+    color: #dbdf7e;
+    margin-left: 50px;
+    font-weight: bold;
+} */
+
+/* akhir FONT Navbar */
+
+/* bg container */
+.jumbotron {
+    background-color: #FEFFDF;
+    font-family: cursive;
+}
+
+/* akhir bg container */
+
+/* contact */
+.contact .row {
+    font-size: 40px;
+    font-family: cursive;
+}
+
+/* akhir Contact */
+
+/* footer */
+.footer {
+    background-color: #0A043C;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FEFFDF;
+}
+
+/* akhir footer */
