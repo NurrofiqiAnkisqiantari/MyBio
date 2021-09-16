@@ -26,7 +26,7 @@
 /* bg container */
 .jumbotron {
     background-color: #FEFFDF;
-    font-family: cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* akhir bg container */
@@ -34,7 +34,7 @@
 /* contact */
 .contact .row {
     font-size: 40px;
-    font-family: cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* akhir Contact */
